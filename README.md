@@ -2,6 +2,13 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="55%"/>
 </div>
 
+<h2 align="center">Hi 👋, I'm Anson George</h2>
+
+## About Me
+Currently pursuing Year 4, Bachelor’s degree in Computer Science (Artificial Intelligence) (Hons).
+
+## Connect With me:
+
 <!--
 **ansongeo/ansongeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
