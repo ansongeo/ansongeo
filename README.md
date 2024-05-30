@@ -7,7 +7,10 @@
 ## About Me
 Currently pursuing Year 4, Bachelor’s degree in Computer Science (Artificial Intelligence) (Hons).
 
-## Connect With me:
+## Connect With me
+<p align="left">
+<a href="https://linkedin.com/in/anson-n-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-rathwala" height="20" width="30" /></a>
+</p>
 
 <!--
 **ansongeo/ansongeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
